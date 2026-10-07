@@ -1,0 +1,469 @@
+    1  git config --global user.email
+    2  git config --global user.email "santiagoztm5@gmail.com"
+    3  git config --global user.email
+    4  git config--global user.name "SantiagoZapataMontoya"
+    5  git config --global user.name "SantiagoZapataMontoya"
+    6  git config --global user.name 
+    7  CLEAR
+    8  git config --global --list
+    9  git config --global core.editor "code --wait"
+   10  git config --global core.editor
+   11  git config --global color.ui true
+   12  git config --global color.ui
+   13  git config --global core.autocrlf true
+   14  git config --global core-autocrlf
+   15  git config --global core.autocrlf
+   16  clear
+   17  git config --global --list
+   18  cd C:/ 
+   19  cd Descargas
+   20  cd Descargas/
+   21  cd ..
+   22  cd Descargas/}
+   23  clear
+   24  cd Users/
+   25  cd C:/
+   26  cd Usuarios/
+   27  cd users/
+   28  cd santi/
+   29  cd descargas/
+   30  cd Descargas/
+   31  cd download/
+   32  cd ls
+   33  cd ls/
+   34  clear
+   35  cd Descargas/
+   36  cd Do
+   37  cd Downloads/
+   38  cd "Sena TRIMESTRE 2"
+   39  cd "Santiago Zapata"
+   40  cd GIT/
+   41  cd Ejemplo/
+   42  clear
+   43  git init
+   44  touch una-vez.txt
+   45  cd C:/
+   46  cd users
+   47  cd santi
+   48  cd Downloads/
+   49  cd sena trimestre 2
+   50  cd Sena TRIMESTRE 2
+   51  cd C:\Users\santi\Downloads\Sena TRIMESTRE 2
+   52  cd Sena
+   53  cd Sena TRIMESTRE 2
+   54  cd "Sena TRIMESTRE 2"
+   55  cd "Santiago Zapata"/GIT/Ejemplo
+   56  mkdir carpeta_1
+   57  ls
+   58  rmdir carpeta_1
+   59  touch soy_peor.txt
+   60  ls
+   61  mkdir -p artista/bad_bunny
+   62  ls
+   63  cd artista
+   64  ls
+   65  cd :
+   66  cd ..
+   67  ls
+   68  rmdir artista/bad_bunny
+   69  ls
+   70  cd artista
+   71  ls
+   72  mkdir bad_bunny
+   73  cd ..}
+   74  cd ..
+   75  cd artista
+   76  ls
+   77  cd ..
+   78  mv soy_peor.txt artista/bad_bunny
+   79  cd artista
+   80  cd bad_bunny
+   81  ls
+   82  cd ..
+   83  cd ..
+   84  mv soy_peor.txt nuevo_nombre.txt
+   85  cd artista
+   86  cd bad_bunny
+   87  mv soy_peor.txt nuevo_nombre.txt
+   88  ls
+   89  mv nuevo_nombre soy_pior.txt
+   90  mv nuevo_nombre.txt soy_pior.txt
+   91  cd ..
+   92  cd ..
+   93  cd artista
+   94  cd ..
+   95  mv artista/bad_bunny/soy_pior.txt artista/bad_bunny/diles.txt
+   96  cd artista
+   97  cd bad_bunny
+   98  ls
+   99  cd ..
+  100  cd ..
+  101  ls artista/bad_bunny
+  102  mkdir "The perfect melody"
+  103  cd "The perfect melody"
+  104  mkdir Zion
+  105  touch "Zun da da".txt
+  106  touch "Periodico de ayer".txt
+  107  touch Besame.txt
+  108  touch Fantasma.txt
+  109  mkdir Bonus
+  110  mv "Zun da da" Bonus/
+  111  mv "Zun da da".txt Bonus/
+  112  mv "Periodico de ayer".txt "Periodico de mañana".txt
+  113  mkdir Artistas
+  114  mv Zion Artistas/
+  115  ls
+  116  mv Bonus/"Zun da da".txt "The perfect melody"
+  117  rmdir Bonus
+  118  mkdir -p Motivan2/"Los verdaderos"/"El sistema"
+  119  touch Motivan2/"Los verdaderos"/"El sistema"/"Otra vez".txt
+  120  cd /c/users/santi/Downloads/Sena TRIMESTRE 2/Santiago Zapata/GIT/Ejemplo
+  121  cd c:
+  122  cd users/santi/Downloads/
+  123  cd "Sena TRIMESTRE 2
+  124  cd "Sena TRIMESTRE 2"
+  125  cd "Santiago Zapata"/GIT/Ejemplo
+  126  cd "The perfect melody"
+  127  echo "Solo regueton en esta monda"/Fantasma.txt
+  128  echo " Zion y Lenox"/Besame.txt
+  129  echo "Solo regueton en esta monda" > Fantasma.txt
+  130  echo "Zion y Lenox" > Besame.txt
+  131  cat Besame.txt
+  132  cat Fantasma.txt
+  133  mv Motivan2 Carpeta1
+  134  cd Carpeta1
+  135  cd ..
+  136  ls
+  137  clear
+  138  cd ..
+  139  cd ..
+  140  cd Ejemplo
+  141  git status
+  142  git add cancion.txt/
+  143  git add Cancion.txt.txt
+  144  git add No lo conocemos.txt.txt
+  145  git add "No lo conocemos".txt.txt
+  146  git add "The perfect melody"
+  147  git status
+  148  git add.
+  149  git add .
+  150  git status
+  151  git commit
+  152  git status
+  153  cd c/
+  154  cd desktop
+  155  cd ..
+  156  cd /c/users/santi/Downloads/Sena TRIMESTRE 2/Santiago Zapata/GIT/Ejemplo
+  157  cd /c
+  158  cd /users/santi/Downloads/
+  159  cd /users/santi/Downloads
+  160  cd /users
+  161  cd ..
+  162  clear
+  163  cd c:
+  164  cd users
+  165  cd santi
+  166  cd Downloads/
+  167  cd "Sena Trimestre 2"
+  168  cd "Santiago Zapata"
+  169  cd GIT
+  170  cd Ejemplo
+  171  clear
+  172  git log
+  173  git log --oneline
+  174  git config --global core.abrev 5
+  175  clear
+  176  git log --oneline
+  177  git config --global core.abbrev 5
+  178  git log --oneline
+  179  git show bad3e
+  180  git show df309
+  181  git status
+  182  git log --oneline
+  183  git add .
+  184  cd ..
+  185  cd Ejemplo/
+  186  git status
+  187  git commit
+  188  git log
+  189  git log --oneline
+  190  git show 875ba
+  191  git blame no_me
+  192  git blame besame.txt
+  193  git blame Besame.txt
+  194  git blame no_me_conoce.txt
+  195  git blame the perfect melody/ Besame.txt
+  196  git blame "The perfect melody"/Besame.txt
+  197  git status
+  198  git add .
+  199  git status
+  200  git commit
+  201  git status
+  202  git add .
+  203  git status
+  204  git commit
+  205  git status
+  206  git add .
+  207  git status
+  208  git commit
+  209  git status
+  210  git add.
+  211  git add .
+  212  git status
+  213  git commit
+  214  git status
+  215  git add .
+  216  git status
+  217  git commit
+  218  git log
+  219  git log --oneline
+  220  git diff dd8c5 df309
+  221  git branch
+  222   git branch santi-machucayuca
+  223  git branch
+  224  git switch santi-machucayuca
+  225  git branch
+  226  git commit -a -m "borre la cancion"
+  227  git switch master
+  228  git switch santi-machucayuca
+  229  c
+  230  c/
+  231  clear
+  232  cd c/
+  233  cd /c
+  234  cd users
+  235  cd santi
+  236  cd Downloads/
+  237  cd 
+  238  clear
+  239  cd c
+  240  cd c/
+  241  cd /c
+  242  cd users
+  243  cd santi
+  244  cd Downloads/
+  245  cd "Sena TRIMESTRE 2"
+  246  cd "Santiago Zapata"
+  247  cd GIT
+  248  cd Ejemplo
+  249  CLEAR
+  250  cd
+  251  clear
+  252  cd /c
+  253  cd users
+  254  cd santi
+  255  cd Downloads/
+  256  cd "Sena TRIMESTRE 2"
+  257  cd "Santiago Zapata"
+  258  cd Actividad_2
+  259  git init
+  260  touch.html
+  261  git touch .html
+  262  touch index.html
+  263  echo "h1>Bienvenidos<h1>" > index.html
+  264  touch style.css
+  265  echo "/*Estilos Principales*/"
+  266  echo "/*Estilos Principales*/" > style.css
+  267  git status
+  268  git add index.html
+  269  git status
+  270  git commit -m "feat(core)"
+  271  echo "<h1>Bienvenidos a mi Super Proyecto</h1> > index.html
+  272  $
+  273  echo "<h1>Bienvenidos a mi Super Proyecto</h1>" > index.html
+  274  git diff index.html
+  275  git commit -a -m "fix(core): actualizar titulo principal"
+  276  git status
+  277  cd /c
+  278  cd users
+  279  cd santi
+  280  cd Downloads/
+  281  cd "Sena TRIMESTRE 2"
+  282  cd "Santiago Zapata"
+  283  cd GIT
+  284  cd Ejemplo
+  285  git switch -c "Wisin y Yandel"
+  286  git switch -c Wisin
+  287  git switch master
+  288  git branch -d Wisin
+  289  git branch -D Wisin
+  290  git switch santi-machucayuca
+  291  git branch -m rama-elmachucamango
+  292  git branch
+  293  git branch -D rama-elmachucamango
+  294  git switch master
+  295  git branch -D rama-elmachucamango
+  296  git switch -c Aztualizacion-Para-Motos
+  297  git commit -a -m "Agregando dos frases a la rama de motos"
+  298  git commit -a -m "agregando dos frases a la rama de motos"
+  299  git switch master
+  300  git merge Aztualiacion-Para-Motos
+  301  cd /C
+  302  cd users
+  303  cd santi
+  304  cd Downloads/
+  305  cd "Sena Trimestre 2"
+  306  cd ..
+  307  cd 
+  308  cd .
+  309  cd ..
+  310  cd ..
+  311  clear
+  312  cd users
+  313  cd santi
+  314  cd Downloads/
+  315  cd "Sena TRIMESTRE 2"
+  316  cd "Santiago Zapata"
+  317  cd GIT
+  318  cd Ejemplo
+  319  git log --oneline
+  320  git switch Actualizacion-para-motos
+  321  git status
+  322  git branch
+  323  git switch Aztualizacion-Para-Motos
+  324  git switch master
+  325  git commit -a -m
+  326  git switch master
+  327  cd /c
+  328  cd users
+  329  cd santi
+  330  cd Downloads/
+  331  cd "Sena TRIMESTRE 2"
+  332  cd "Santiago Zapata"
+  333  cd GIT
+  334  cd Ejemplo
+  335  git switch master
+  336  git commit -a -m
+  337  git commit -a -m 
+  338  git commit -a -m Besame.txt
+  339  git switch master
+  340  git switch -c feature-contacto
+  341  echo "<p>Contacto: email@test.com</p>" > index.html
+  342  git commit -a -m "Contacto y correo"
+  343  git add index.html
+  344  git status
+  345  git switch master
+  346  echo "<p>Síguenos en redes sociales</p>"
+  347  echo "<p>Síguenos en redes sociales</p>" > index.html
+  348  git commit -a -m "Correccion"
+  349  git merge feature-contacto
+  350  git switch feature-contacto
+  351  git commit -a -m "Contacto y correo"
+  352  git commit -a -m index.html
+  353  git switch master
+  354  git merge feature-contacto
+  355  git switch feature-contacto
+  356  echo "<p>Contacto: email@test.com</p>" > index.html
+  357  git commit -a -m "Gmail"
+  358  Clear
+  359  git switch master
+  360  git commit -a -m index.html
+  361  git add. index.html
+  362  git add index.html
+  363  git switch master
+  364  commit -a -m index.html
+  365  git commit -a -m index.html
+  366  git switch master
+  367  git merge feature-contacto
+  368  git status
+  369  git add index.html
+  370  git commit -m "Fusion de ramas"
+  371  git branch -d feature-contacto
+  372  git branch
+  373  cd /c
+  374  cd users
+  375  cd santi
+  376  cd Downloads/
+  377  cd "Sena TRIMESTRE 2"
+  378  cd "Santiago Zapata"
+  379  cd GIT
+  380  cd Ejemplo
+  381  ls
+  382  git status
+  383  git status
+  384  git status
+  385  git status
+  386  git status
+  387  clear
+  388  cd ..
+  389  cd ..
+  390  cd ..
+  391  cd ..
+  392  cd ..
+  393  clear
+  394  cd /c
+  395  cd user
+  396  cd users
+  397  cd santi
+  398  cd Downloads/
+  399  cd "Sena TRIMESTRE 2"
+  400  cd "Santiago Zapata"
+  401  cd GIT
+  402  cd Ejemplo
+  403  clear
+  404  dir
+  405  git init
+  406  git add .
+  407  git commit -m "Repositorio de prueba"
+  408  git remote add origin https://github.com/Santiago030426/CancionSZ.git
+  409  git branch -M main
+  410  git push -u origin main
+  411  git remote -v
+  412  clear
+  413  cd ..
+  414  cd --
+  415  cd ..
+  416  cd ..
+  417  cd users
+  418  cd santi
+  419  cd Downloads/
+  420  cd "Sena TRIMESTRE 2"
+  421  cd "Santiago Zapata"/
+  422  cd "Repositorio nuevo"/
+  423  cd Santisss
+  424  git status
+  425  git init
+  426  git status
+  427  git add .
+  428  git commit -m "Actividad en clase SZ"
+  429  git remote add origin https://github.com/Santiago030426/Proyecto_01.git
+  430  git branch -M main
+  431  git push -u origin main
+  432  git remote -v
+  433  git pull
+  434  cd /c
+  435  cd user
+  436  cd users
+  437  cd Santiago
+  438  cd Downloads/
+  439  cd "Sena TRIMESTRE 3"
+  440  cd Viktor
+  441  mkdir mi_app
+  442  cd mi_app
+  443  git init
+  444  git config user.name "Santiago030426"
+  445  git config user.emai "Santiagoztm5@gmail.com"
+  446  mkdir src
+  447  mkdir docs
+  448  echo "__pycache__/ > .ignore
+  449  echo "__pycache__/ > .gitignore
+
+  450  echo ".venv/" >> .gitignore
+  451  echo "__pycache__/" > .gitignore
+  452  echo "# Primera parte de mi_app" > src/app.py
+  453  echo "¿QUIEN TIENE EL PROBLEMA?: Usuarios que necesiten gestionar sus gastos > docs/idea.md
+  454  echo "QUIEN TIENE EL PROBLEMA?: Usuarios que necesiten gestionar sus gastos" > docs/idea.md
+  455  echo "INFORMACION PARA REGISTRAR: lista de gastos, ingresos totales, totales de gastos, etc" >> docs/idea.md 
+  456  echo "# App para gestionar gastos personales" > README.md
+  457  echo "Esta app me ayudara a gestionar mis gastos e ingresos, para mejorar mis finanzas personales" >> README.md
+  458  echo "App desarrollada por: Santiago Zapata Montoya, ADSO, 20 años, CC. 1033258674, contacto: 3044724973 >> README.md
+  459  echo "App desarrollada por: Santiago Zapata Montoya, ADSO, 20 años, CC. 1033258674, contacto: 3044724973" >> README.md
+  460  git add .gitignore src/app.py
+  461  git commit -m "chore: Crea la estructura inicial del proyecto"
+  462  git add docs/idea.md
+  463  git commit -m "docs: Describe la idea del proyecto"
+  464  git add README.md
+  465  git commit -m "docs: agrega la portada y descripcion en el REAME"
+  466  git status
+  467  ls -R > docs/estructura.txt
+  468  history > docs/historial.txt
